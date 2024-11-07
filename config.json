@@ -9,17 +9,17 @@
   "UPTIME": 200,
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "/",
+  "BOTNAME": "『𝙿𝚁𝙴𝙽𝙲𝙴𝚂𝚂 𝙻 𝙸 𝚂 𝙰』",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "apnar uid",
-    "OTHER_FB_UID",
-    "61568515043007"
+    "8722291054493624",
+    "",
+    "61567840496026"
   ],
   "DESIGN": {
     "Title": "LisaBby",
     "Theme": "Blue",
-    "Admin": "YOUR_NAME",
+    "Admin": "N1SA9",
     "Setup": {
       "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
